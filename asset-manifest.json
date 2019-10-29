@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/movie-dictionary/static/css/main.e1b113c4.chunk.css",
-    "main.js": "/movie-dictionary/static/js/main.c87ffe46.chunk.js",
-    "main.js.map": "/movie-dictionary/static/js/main.c87ffe46.chunk.js.map",
+    "main.js": "/movie-dictionary/static/js/main.13f45de8.chunk.js",
+    "main.js.map": "/movie-dictionary/static/js/main.13f45de8.chunk.js.map",
     "runtime-main.js": "/movie-dictionary/static/js/runtime-main.d072a0ea.js",
     "runtime-main.js.map": "/movie-dictionary/static/js/runtime-main.d072a0ea.js.map",
-    "static/js/2.e7d1edc7.chunk.js": "/movie-dictionary/static/js/2.e7d1edc7.chunk.js",
-    "static/js/2.e7d1edc7.chunk.js.map": "/movie-dictionary/static/js/2.e7d1edc7.chunk.js.map",
+    "static/js/2.b7bfee61.chunk.js": "/movie-dictionary/static/js/2.b7bfee61.chunk.js",
+    "static/js/2.b7bfee61.chunk.js.map": "/movie-dictionary/static/js/2.b7bfee61.chunk.js.map",
     "index.html": "/movie-dictionary/index.html",
-    "precache-manifest.44644b5d9abe766bb7611c23b91f9365.js": "/movie-dictionary/precache-manifest.44644b5d9abe766bb7611c23b91f9365.js",
+    "precache-manifest.8608aba8de4428bf6a4103dff025fe20.js": "/movie-dictionary/precache-manifest.8608aba8de4428bf6a4103dff025fe20.js",
     "service-worker.js": "/movie-dictionary/service-worker.js",
     "static/css/main.e1b113c4.chunk.css.map": "/movie-dictionary/static/css/main.e1b113c4.chunk.css.map",
     "static/media/logo.svg": "/movie-dictionary/static/media/logo.25bf045c.svg"
