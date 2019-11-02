@@ -12,7 +12,7 @@ const App = () => {
     return (
         <div className="">
 
-            <BrowserRouter>
+            <BrowserRouter basename={process.env.PUBLIC_URL}>
                 <React.Fragment>
                     <Header />
                     {/*<Home />*/}
