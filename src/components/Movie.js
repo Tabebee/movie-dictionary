@@ -72,11 +72,13 @@ class Movie extends Component {
 
 
     render(){
+        const movieLink ='https://www.imdb.com/title/' + this.state.movie.imdb_id;
         return(
             <div className='rmdb-movie'>
                 {this.state.movie ?
                     <div>
                         <Navigation movie={this.props.location.movieName} />
+                        <a href={movieLink}>IMDB Profile Link</a>
                         <MovieInfo movie={this.state.movie} directors={this.state.directors} />
                         <MovieInfoBar time={this.state.movie.runtime} budget={this.state.movie.budget} revenue={this.state.movie.revenue} />
                     </div>
