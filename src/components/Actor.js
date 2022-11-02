@@ -17,7 +17,7 @@ const Actor = (props) => {
             />
             <span className="rmdb-actor-name">{props.actor.name}</span>
             <span className="rmdb-actor-character">{props.actor.character}</span>
-            {/*<a className='rmdb-actor-character linkTo' href={link} target='_blank' >Link</a>*/}
+            <a className='rmdb-actor-character linkTo' href={link} target='_blank' >Link</a>
         </div>
     )
 }
